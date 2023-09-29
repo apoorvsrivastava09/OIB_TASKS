@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=OnlineExamSystem
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=scanner
+comment2.target=void\ login(java.util.Scanner)
+comment3.params=username\ password
+comment3.target=boolean\ authenticateUser(java.lang.String,\ java.lang.String)
+comment4.params=scanner
+comment4.target=void\ showMainMenu(java.util.Scanner)
+comment5.params=scanner
+comment5.target=void\ updateProfile(java.util.Scanner)
+comment6.params=scanner
+comment6.target=void\ changePassword(java.util.Scanner)
+comment7.params=scanner
+comment7.target=void\ takeExam(java.util.Scanner)
+numComments=8
